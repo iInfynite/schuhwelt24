@@ -1,24 +1,25 @@
-# schuhwelt24 - Premium Sneaker Deals
+# schuhwelt24 - Premium Sneaker Angebote
 
-Welcome to **schuhwelt24**, a professional landing page for premium sneaker deals. This project was developed as part of the **iInfynite** portfolio to showcase modern web design, glassmorphism aesthetics, and responsive layout capabilities.
-
-## 🚀 Features
-- **Modern Glassmorphism UI**: High-end look with blurred panels and floating elements.
-- **Micro-interactions**: Smooth transitions, hover effects, and a custom page loader.
-- **Multilingual Support**: Includes a special Hinglish translation popup for a localized experience.
-- **Fully Responsive**: Optimized for desktop, tablet, and mobile devices (768px break-point).
-- **Interactive Elements**: FAQ accordion, cookie consent banner, and modal system for legal pages.
-
-## 🛠️ Built With
-- **HTML5**: Semantic structure.
-- **Vanilla CSS3**: Custom properties (variables), Flexbox, Grid, and Animations.
-- **JavaScript (ES6)**: Functional logic for UI interactions.
-- **Google Fonts**: 'Outfit' and 'Playfair Display' for typography.
-
-## 📁 Repository Structure
-- `index.html`: Main structure and content.
-- `style.css`: Comprehensive styling and UI design.
-- `script.js`: Interactive logic and components.
+schuhwelt24 ek premium sneaker comparison platform hai jo shoe enthusiasts ke liye best deals aur curated collections provide karti hai. Iska interface minimalist aur modern hai, jo premium shopping experience ko dhyan mein rakh kar banaya gaya hai.
 
 ---
-Developed by **iInfynite** - Empowering brands with state-of-the-art web solutions.
+
+## 📸 Site Preview
+![schuhwelt24 Site Preview](screenshot.png)
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**: Semantic elements aur structural design ke liye.
+- **Vanilla CSS**: Custom styling, glassmorphism effects, aur transitions ke liye.
+- **JavaScript**: UI interactions, preloader, aur animations manage karne ke liye.
+
+## 🌟 Key Features
+- Modern Glassmorphism UI.
+- Interactive FAQ section aur product modals.
+- Affiliate marketing integration (Zalando & others).
+- Fully responsive design for mobile and desktop.
+
+---
+
+**Built with ❤️ for iInfynite**
